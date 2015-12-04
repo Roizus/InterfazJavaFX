@@ -1,0 +1,45 @@
+.background {
+    -fx-background-color: #086A87;
+}
+
+.button-github{
+	-fx-background-color:#086A87;
+	-fx-font-size: 12pt;
+	-fx-text-fill: #ffffff;
+	-fx-alignment: CENTER;
+	-fx-font-weight:bold;
+}
+.button-enviar{
+	-fx-background-color:#086A87;
+	-fx-font-size: 12pt;
+	-fx-text-fill: #ffffff;
+	-fx-alignment: CENTER;
+	-fx-font-weight:bold;
+}
+.titulo{
+	-fx-font-size: 40pt;
+    -fx-font-family: "Arial";
+    -fx-text-fill: #086A87;
+	-fx-font-weight:bold;
+}
+.titulo2{
+	-fx-font-size: 20pt;
+    -fx-font-family: "Arial";
+    -fx-text-fill: #ffffff;
+	-fx-font-weight:bold;
+}
+
+
+.nombre{
+	-fx-font-size: 15pt;
+    -fx-text-fill: #6E6E6E;
+	-fx-font-weight:bold;
+}
+
+.texto_normal{
+	-fx-font-size: 13pt;
+    -fx-text-fill: #A4A4A4;
+    -fx-font-family: "Arial";
+	-fx-font-weight:bold;
+}
+
